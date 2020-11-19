@@ -1,0 +1,5 @@
+# Project specific
+.vscode/*
+
+# Balthazar useless file
+__pycache__
